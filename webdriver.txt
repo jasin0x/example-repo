@@ -1,2 +1,0 @@
-asdfasdf
-Test data for webdriver
